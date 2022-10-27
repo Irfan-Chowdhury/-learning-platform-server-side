@@ -1,0 +1,26 @@
+[
+    {
+      "id": "01",
+      "name": "Microsoft Office"
+    },
+    {
+      "id": "02",
+      "name": "Graphics Design"
+    },
+    {
+      "id": "03",
+      "name": "Web Design"
+    },
+    {
+      "id": "04",
+      "name": "Programming"
+    },
+    {
+      "id": "05",
+      "name": "Database"
+    },
+    {
+      "id": "06",
+      "name": "Backend Framework"
+    }
+  ]

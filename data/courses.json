@@ -1,0 +1,143 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "01",
+      "title": "MS Excel for Professionals Part-1",
+      "image_url": "https://nvit.com.bd/wp-content/uploads/2021/11/Excel-for-Professionals-Part-1-400x283.jpg.webp",
+      "details": "Our EXCEL PROFESSIONAL course provides you with a formidable array of skills that will enable you to use Excel at an exceptionally high level The course has its own workbook with exercises – downloadable within the first “Introduction” module – so you can practice and reinforce what you have learned You'll take what you know in Conditional Formatting, LOOKUPs, PivotTables to a whole new level, and be introduced to User Defined Functions (UDFs) using VBA Advanced Conditional Formatting - Editing Standard Formatting Rules - Using Formulas in Conditional Formatting"
+    },
+    {
+      "_id": "1282e0e58a54541fbd15261f11c2ab6b",
+      "category_id": "01",
+      "title": "MS Excel for Professionals Part-2 Using Macro",
+      "image_url": "https://nvit.com.bd/wp-content/uploads/2021/11/training-on-microsoft-excel2-400x283.jpg.webp",
+      "details": "Enhanced by intelligence for experts and novicesExcel learns your patterns, organizing your data to save you time. Easily create spreadsheets from templates or on your own and use modern formulas to perform calculations, Get a better picture of your data New charts and graphs help you present your data in compelling ways, with formatting, sparklines, and tables to better understand your data. Easily create forecasts to predict trends with just a click. Share your workbook with others and always work on the latest version for real-time collaboration to help get work done faster. With Microsoft 365, work within an Excel file from mobile, desktop, and web,"
+    }, 
+    {
+      "_id": "3282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "01",
+      "title": "Microsoft Office Applications (Advance)",
+      "image_url": "https://nvit.com.bd/wp-content/uploads/2019/06/MS-Office-400x283.jpg.webp",
+      "details": "What does Microsoft Office mean? Microsoft Office is a suite of desktop productivity applications that is designed specifically to be used for office or business use. It is a proprietary product of Microsoft Corporation and was first released in 1990.It is a family of client software, server software, and services developed by Microsoft. It was first announced by Bill Gates. Microsoft Office is available in 35 different languages and is supported by Windows, Mac and most Linux variants. It mainly consists of Word, Excel, PowerPoint, Access, OneNote, Outlook and Publisher applications."
+    }, 
+
+
+    {
+      "_id": "4282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "02",
+      "title": "Adobe InDesign CC",
+      "image_url": "https://nvit.com.bd/wp-content/uploads/2022/04/1-1-400x283.jpg.webp",
+      "details": "Digital publications. Dazzling interactions. Create digital magazines, eBooks, and interactive online documents that draw people in with audio, video, slideshows, and animations. InDesign makes it easy to manage your design elements and quickly deliver immersive experiences in any format."
+    }, 
+    {
+      "_id": "5282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "02",
+      "title": "Adobe After Effect (Motion Graphics)",
+      "image_url": "https://nvit.com.bd/wp-content/uploads/2020/07/nvit.com_.bd-motion-graphics-400x280.jpg.webp",
+      "details": "Stand out with After Effects. Remove an object from a clip. Start a fire or make it rain. Animate a logo or character. Even navigate and design in a 3D space. With After Effects, you can make eye-catching motion graphics and visual effects — for social posts and videos that won’t be ignored. Add exciting effects.Completely change a scene when you add or remove a moving object. You’ve got all you need to create visual effects that bring your video vision to life."
+    }, 
+    {
+      "_id": "6282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "02",
+      "title": "Graphics Design",
+      "image_url": "https://nvit.com.bd/wp-content/uploads/2021/03/ImageGraphics-400x283.jpg.webp",
+      "details": "Graphic design is a profession,[2] applied art and academic discipline[3][4][5] whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives.[6] Graphic design is an interdisciplinary branch of design[1] and of the fine arts. Its practice involves creativity, innovation and lateral thinking using manual or digital tools, where it is usual to use text and graphics to communicate visually.  The role of the graphic designer in the communication process is that of encoder or interpreter of the message. They work on the interpretation, ordering, and presentation of visual messages. Usually, graphic design uses the aesthetics of typography and the compositional arrangement of the text, ornamentation, and imagery to convey ideas, feelings, and attitudes beyond what language alone expreses. The design work can be based on a customer's demand, a demand that ends up being established linguistically, either orally or in writing, that is, that graphic design transforms a linguistic message into a graphic manifestation.[7]"
+    }, 
+
+
+
+    {
+      "_id": "7282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "03",
+      "title": "HTML",
+      "image_url": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2018/11/what-is-html-3.jpg",
+      "details": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript..The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript."
+    }, 
+    {
+      "_id": "8282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "03",
+      "title": "CSS",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png",
+      "details": "Image to text converter is a free OCR tool that allows you to convert Picture to text, convert PDF to Doc file and extract text from PDF files.Image to text converter is a free OCR tool that allows you to convert Picture to text, convert PDF to Doc file and extract text from PDF files.Image to text converter is a free OCR tool that allows you to convert Picture to text, convert PDF to Doc file and extract text from PDF files.Image to text converter is a free OCR tool that allows you to convert Picture to text, convert PDF to Doc file and extract text from PDF files."
+    }, 
+    {
+      "_id": "9282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "03",
+      "title": "Bootstrap",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png",
+      "details": "Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs. As a framework, Bootstrap includes the basics for responsive web development, so developers only need to insert the code into a pre-defined grid system."
+    }, 
+
+
+
+    {
+      "_id": "1082e0e45645c404fbd15261f11c2ab6b",
+      "category_id": "04",
+      "title": "JavaScript",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+      "details": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles."
+    }, 
+    {
+      "_id": "1082e0e58a5c404fbd15246611c2ab6b",
+      "category_id": "04",
+      "title": "PHP",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png",
+      "details": "PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server."
+    }, 
+    {
+      "_id": "1182e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "04",
+      "title": "Python",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+      "details": "What is Python? Executive Summary What is Python? Executive Summary Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.  Often, programmers fall in love with Python because of the increased productivity it provides. Since there is no compilation step, the edit-test-debug cycle is incredibly fast. Debugging Python programs is easy: a bug or bad input will never cause a segmentation fault. Instead, when the interpreter discovers an error, it raises an exception. When the program doesn't catch the exception, the interpreter prints a stack trace. A source level debugger allows inspection of local and global variables, evaluation of arbitrary expressions, setting breakpoints, stepping through the code a line at a time, and so on. The debugger is written in Python itself, testifying to Python's introspective power. On the other hand, often the quickest way to debug a program is to add a few print statements to the source: the fast edit-test-debug cycle makes this simple approach very effective."
+    }, 
+
+
+
+
+    {
+      "_id": "1282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "05",
+      "title": "Oracle",
+      "image_url": "https://play-lh.googleusercontent.com/lvUW3XukTSHnop1wGHVO1cn2EMwoEa2ZfjBhpIt0t1MhjWXa319OUHJ4zzzhdzf6Vis",
+      "details": "Oracle Corporation is an American multinational computer technology corporation headquartered in Austin, Texas.[5] In 2020, Oracle was the third-largest software company in the world by revenue and market capitalization.[6] The company sells database software and technology (particularly its own brands), cloud engineered systems, and enterprise software products, such as enterprise resource planning (ERP) software, human capital management (HCM) software, customer relationship management (CRM) software (also known as customer experience), enterprise performance management (EPM) software, and supply chain management (SCM) software.[7]"
+    }, 
+    {
+      "_id": "1382e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "05",
+      "title": "MySQL",
+      "image_url": "https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png",
+      "details": "MySQL is a relational database management system Databases are the essential data repository for all software applications. For example, whenever someone conducts a web search, logs in to an account, or completes a transaction, a database system is storing the information so it can be accessed in the future.  A relational database stores data in separate tables rather than putting all the data in one big storeroom. The database structure is organized into physical files optimized for speed. The logical data model, with objects such as data tables, views, rows, and columns, offers a flexible programming environment. You set up rules governing the relationships between different data fields, such as one to one, one to many, unique, required, or optional, and “pointers” between different tables. The database enforces these rules so that with a well-designed database your application never sees data that’s inconsistent, duplicated, orphaned, out of date, or missing.  The “SQL” part of “MySQL” stands for “Structured Query Language.” SQL is the most common standardized language used to access databases. Depending on your programming environment, you might enter SQL directly (for example, to generate reports), embed SQL statements into code written in another language, or use a language-specific API that hides the SQL syntax.  MySQL is open source Open source means it’s possible for anyone to use and modify the software. Anybody can download MySQL software from the internet and use it without paying for it. You can also change its source code to suit your needs. MySQL software uses the GNU General Public License (GPL) to define what you may and may not do with the software in different situations.  If you feel uncomfortable with the GNU GPL or need to embed MySQL code into a commercial application, you can buy a commercially licensed version from Oracle. See the MySQL Licensing Information section for more information."
+    }, 
+    {
+      "_id": "1482e0e58a5c404fbd1464411c2ab6b",
+      "category_id": "05",
+      "title": "NoSQL",
+      "image_url": "https://www.blazeclan.com/wp-content/uploads/2013/09/A-detailed-Outlook-to-No-SQL-Know-Hows.png",
+      "details": "What is NoSQL and what is a NoSQL database? NoSQL database technology stores information in JSON documents instead of columns and rows used by relational databases. To be clear, NoSQL stands for “not only SQL” rather than “no SQL” at all. This means a NoSQL JSON database can store and retrieve data using literally “no SQL.” Or you can combine the flexibility of JSON with the power of SQL for the best of both worlds. Consequently, NoSQL databases are built to be flexible, scalable, and capable of rapidly responding to the data management demands of modern businesses. The following defines the four most-popular types of NoSQL database:  Document databases are primarily built for storing information as documents, including, but not limited to, JSON documents. These systems can also be used for storing XML documents, for example. Key-value stores group associated data in collections with records that are identified with unique keys for easy retrieval. Key-value stores have just enough structure to mirror the value of relational databases while still preserving the benefits of NoSQL. Wide-column databases use the tabular format of relational databases yet allow a wide variance in how data is named and formatted in each row, even in the same table. Like key-value stores, wide-column databases have some basic structure while also preserving a lot of flexibility Graph databases use graph structures to define the relationships between stored data points. Graph databases are useful for identifying patterns in unstructured and semi-structured information. Why use NoSQL? Customer experience has quickly become the most important competitive differentiator and ushered the business world into an era of monumental change. As part of this revolution, enterprises are interacting digitally – not only with their customers, but also with their employees, partners, vendors, and even their products – at an unprecedented scale. This interaction is powered by the internet and other 21st century technologies – and at the heart of the revolution are a company’s cloud, mobile, social media, big data, and IoT applications.  How are these applications different from legacy enterprise applications like ERP, HR, and financial accounting? Today’s web, mobile, and IoT applications share one or more (if not all) of the following characteristics. They need to:  Support large numbers of concurrent users (tens of thousands, perhaps millions) Deliver highly responsive experiences to a globally distributed base of users Be always available – no downtime Handle semi- and unstructured data Rapidly adapt to changing requirements with frequent updates and new features Building and running these massively interactive applications has created a new set of technology requirements. The new enterprise technology architecture needs to be far more agile than ever before, and requires an approach to real-time data management that can accommodate unprecedented levels of scale, speed, and data variability. Relational databases are unable to meet these new requirements, and enterprises are therefore turning to NoSQL database technology.  Global 2000 enterprises are rapidly embracing NoSQL databases to power their mission-critical applications:  Tesco, Europe’s No. 1 retailer, deploys NoSQL for e-commerce, product catalog, and other applications Ryanair, the world’s busiest airline, uses NoSQL to power its mobile app serving over 3 million users Marriott deploys NoSQL for its reservation system that books $38 billion annually Gannett, the No. 1 U.S. newspaper publisher, uses NoSQL for its proprietary content management system, Presto GE deploys NoSQL for its Predix platform to help manage the Industrial Internet Five trends creating new technical challenges that NoSQL DBs address These companies and hundreds more like them are turning to NoSQL because of five trends that present technical challenges that are too difficult for most relational databases."
+    }, 
+
+
+
+    {
+      "_id": "1582e0e58a5c404fbd1464411c2ab6b",
+      "category_id": "06",
+      "title": "Laravel",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png",
+      "details": "A talented PHP Laravel developer can significantly increase the efficiency of web application programming for your organization.  But if you’re a non-technical recruiter, it can be challenging to understand the full scope of a Laravel developer’s role.  This article will explain what Laravel developers are and answer all your questions about the role, outlining what Laravel developers do and shedding light on the Laravel framework.  Table of contents  Definition and meaning: What is Laravel? What does a Laravel developer do? What is a Laravel developer responsible for? Which skills are required to be a Laravel developer? How to hire a Laravel developer: 3 steps to hire the right candidate What are Laravel development companies, and how do they support your organization? Laravel development services: How can they help you? How high is the demand for Laravel developers? Laravel developer salary: What salary should you offer the right candidate? Laravel job description template: What should you include in your Laravel job description? ✅ Hire the right PHP Laravel developer for your organization with skills testing   Definition and meaning: What is Laravel? Laravel is best described as a PHP framework used for programming web applications. It’s an open-source framework and is free to use. The applications built using Laravel use the MVC (model view controller) pattern, which refers to a particular architecture used to structure a web application.  Since Laravel is a comprehensive programming framework, not only can Laravel developers build web applications, such as a real-time interface or an e-commerce website, but they can also maintain these projects with ease.  Developers who use Laravel will notice that it incorporates some principal functions from various frameworks, including Sinatra and Ruby on Rails.    What does a Laravel developer do? Using the Laravel framework, Laravel developers design and build tools, services, and applications for the web and websites. They create modern applications and use innovative workarounds for issues in collaboration with their team of developers.    What is a Laravel developer responsible for? Let’s now look at the primary responsibilities of Laravel developers. Some of their responsibilities include the following tasks:"
+    }, 
+    {
+      "_id": "1682e0e58a5c404fbd1464411c2ab6b",
+      "category_id": "06",
+      "title": "Django",
+      "image_url": "https://static.djangoproject.com/img/logos/django-logo-positive.png",
+      "details": "Meet Django Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.  Ridiculously fast. Django was designed to help developers take applications from concept to completion as quickly as possible.  Reassuringly secure. Django takes security seriously and helps developers avoid many common security mistakes.  Exceedingly scalable. Some of the busiest sites on the web leverage Django’s ability to quickly and flexibly scale."
+    }, 
+    {
+      "_id": "1782e0e58a5c404fbd1464411c2ab6b",
+      "category_id": "06",
+      "title": "Express JS",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/getting-started-with-expressjs-banner-96ecb31ec64b6504.jpeg",
+      "details": "Express.js, or simply Express, is a back end web application framework for building RESTful APIs with Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs.[3] It has been called the de facto standard server framework for Node.js.[4]  The original author, TJ Holowaychuk, described it as a Sinatra-inspired server,[5] meaning that it is relatively minimal with many features available as plugins. Express is the back-end component of popular development stacks like the MEAN, MERN or MEVN stack, together with the MongoDB database software and a JavaScript front-end framework or library.[6]"
+    }
+  ]
