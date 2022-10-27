@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-Irfan-Chowdhury/issues"
   },
-  "homepage": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-Irfan-Chowdhury#readme"
+  "homepage": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-Irfan-Chowdhury#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
